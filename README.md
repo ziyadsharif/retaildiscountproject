@@ -14,6 +14,9 @@ as a discount).
 
 Based on '.Net framwork 4.5.2' by Ziyad Sharif <ziyadsharif@gmail.com> 
 
+##Extraction/Unzipping
+Just extract the file retailwebstore.zip and the remaining files retailwebstore.z01,retailwebstore.z02,retailwebstore.z03,retailwebstore.z04 should be kept in one folder before extraction.
+
 ## Installation
 
 Visual Studio is required to open and run the project.
